@@ -12,3 +12,5 @@ This repository contains Python projects completed as part of the CodeAlpha Inte
 
 ## Author
 Naveen Raj M
+## Status
+✔ All assigned tasks completed successfully.
